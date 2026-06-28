@@ -1,0 +1,47 @@
+# Geotechnicalengineering1 — San Diego
+
+> Geotechnical engineering services in San Diego, United States.
+
+## Services
+- [Anchors](https://san-diego.geotechnicalengineering1.biz/anchors/)
+- [Atterberg Limits](https://san-diego.geotechnicalengineering1.biz/atterberg-limits/)
+- [Cpt Test](https://san-diego.geotechnicalengineering1.biz/cpt-test/)
+- [Deep Excavations](https://san-diego.geotechnicalengineering1.biz/deep-excavations/)
+- [Excavation Monitoring](https://san-diego.geotechnicalengineering1.biz/excavation-monitoring/)
+- [Excavations](https://san-diego.geotechnicalengineering1.biz/excavations/)
+- [Flexible Pavement](https://san-diego.geotechnicalengineering1.biz/flexible-pavement/)
+- [Foundations](https://san-diego.geotechnicalengineering1.biz/foundations/)
+- [Geophysics](https://san-diego.geotechnicalengineering1.biz/geophysics/)
+- [Grain Size](https://san-diego.geotechnicalengineering1.biz/grain-size/)
+- [Ground Improvement](https://san-diego.geotechnicalengineering1.biz/ground-improvement/)
+- [Grouting](https://san-diego.geotechnicalengineering1.biz/grouting/)
+- [Investigation](https://san-diego.geotechnicalengineering1.biz/investigation/)
+- [Lab In Situ](https://san-diego.geotechnicalengineering1.biz/lab-in-situ/)
+- [Laboratory](https://san-diego.geotechnicalengineering1.biz/laboratory/)
+- [Liquefaction](https://san-diego.geotechnicalengineering1.biz/liquefaction/)
+- [Masw](https://san-diego.geotechnicalengineering1.biz/masw/)
+- [Mat Foundations](https://san-diego.geotechnicalengineering1.biz/mat-foundations/)
+- [Plate Load Test](https://san-diego.geotechnicalengineering1.biz/plate-load-test/)
+- [Retaining Walls](https://san-diego.geotechnicalengineering1.biz/retaining-walls/)
+- [Rigid Pavement](https://san-diego.geotechnicalengineering1.biz/rigid-pavement/)
+- [Road Geotechnics](https://san-diego.geotechnicalengineering1.biz/road-geotechnics/)
+- [Sand Cone Density](https://san-diego.geotechnicalengineering1.biz/sand-cone-density/)
+- [Seismic](https://san-diego.geotechnicalengineering1.biz/seismic/)
+- [Seismic Isolation](https://san-diego.geotechnicalengineering1.biz/seismic-isolation/)
+- [Seismic Microzonation](https://san-diego.geotechnicalengineering1.biz/seismic-microzonation/)
+- [Seismic Refraction](https://san-diego.geotechnicalengineering1.biz/seismic-refraction/)
+- [Slope Stability](https://san-diego.geotechnicalengineering1.biz/slope-stability/)
+- [Slopes](https://san-diego.geotechnicalengineering1.biz/slopes/)
+- [Soft Ground Tunnels](https://san-diego.geotechnicalengineering1.biz/soft-ground-tunnels/)
+- [Spt Drilling](https://san-diego.geotechnicalengineering1.biz/spt-drilling/)
+- [Stone Columns](https://san-diego.geotechnicalengineering1.biz/stone-columns/)
+- [Test Pits](https://san-diego.geotechnicalengineering1.biz/test-pits/)
+- [Triaxial](https://san-diego.geotechnicalengineering1.biz/triaxial/)
+- [Vibrocompaction](https://san-diego.geotechnicalengineering1.biz/vibrocompaction/)
+
+## Contact
+- Website: https://san-diego.geotechnicalengineering1.biz/
+
+## About
+This site provides geotechnical engineering services in San Diego, United States.
+Compliant with local and international standards (ASTM, ISO, country-specific norms).
